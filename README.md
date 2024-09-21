@@ -19,3 +19,19 @@ There are 3 parts in this paper:
 3. Integration of an emotion recognition model and a webcam for real-time emotion classification. This part of the work goes in a separate emotion_web.ipynb file that needs to be run on the local machine.
 
 
+Obtained results:
+
+Definition accuracy:
+
+1. surprise - 76.96% (4866 out of 6323 images identified correctly)
+2. happy - 66.47% (3958 out of 5955 images identified correctly)
+3. fear - 47.34% (2388 out of 5044 images identified correctly)
+4. neutral - 46.87% (3185 out of 6795 images identified correctly)
+5. disgust - 43.87% (1384 out of 3155 images identified correctly)
+6. sad - 42.18% (2843 out of 6740 images identified correctly)
+7. anger - 40.62%(2852 out of 7022 images identified correctly)
+8. contempt - 38.96% (1202 out of 3085 images identified correctly)
+9. uncertain - 35.45% (2101 out of 5927 images identified correctly)
+
+Conclusion: the model performed best on the defining of surprise (surprise) and happiness (happy). Worst of all, the model managed to reveal contempt (contempt) and an indefinite emotion (uncertain).
+
