@@ -1,5 +1,4 @@
-# Emotion-Recognition_english_version
-This is a copy of ML-Diploma project, only in english
+# Emotion-Recognition
 Final work in educational course 'Data Science. Middle. Neural Networks'
 
 To run the main code from the main tab, you need to create a new personal API token on kaggle, download the kaggle.json file and select it in the pop-up window, after running the code and clicking on the button in the corresponding 'select files' cell. This is required to download the training dataset from kaggle.
@@ -8,3 +7,5 @@ The file emotion_web.ipynb is the third part of the thesis, integrating the trai
 
 Some of the outputs are in russian.
 Sorry about that. Due to the fact that it's time-consuming to rerun the whole notebook it has been kept in russian.
+
+
